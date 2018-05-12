@@ -1,0 +1,37 @@
+_repo: Odd-NumbersBeing-Further-Chronicles-of-Shorty-McCabe_26528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Sewell
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '7287'
+    url: http://www.gutenberg.org/2009/agents/7287
+description: ''
+gutenberg_issued: '2008-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26528'
+  lccn: '12002240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+tableOfContents: Goliah and the purple lid -- How Maizie came through -- Where Spotty
+  fitted in -- A grandmother who got going -- A long shot on DeLancey -- Playing Harold
+  both ways -- Cornelia shows some class -- Doping out an odd one -- Handing Bobby
+  a blank -- Marmaduke slips one over -- A look in on the goat game -- Mrs. Truckles'
+  broad jump -- Heiney takes the gloom cure -- A try-out for Toodleism -- The case
+  of the Tiscotts -- Classing Tutwater right -- How Hermy put it over -- Joy riding
+  with aunty -- Turning a trick for Beany.
+title: 'Odd Numbers
+
+  Being Further Chronicles of Shorty McCabe'
+url: http://www.gutenberg.org/ebooks/26528
